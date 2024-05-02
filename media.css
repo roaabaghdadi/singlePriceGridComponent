@@ -1,0 +1,14 @@
+            /* mobile*/
+
+            @media (min-width:0px) {
+                body {
+                    width: 100%;
+                }
+            }
+            /* Desktop*/
+
+            @media (min-width:375px) {
+                body {
+                    width: 50%
+                }
+            }

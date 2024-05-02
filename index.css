@@ -1,0 +1,95 @@
+    @import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&display=swap');
+    body {
+        font-family: "Karla", sans-serif;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        height: 100vh;
+    }
+
+    .firstSection {
+        background-color: white;
+        margin: 40px 40px 0px;
+        height: 200px;
+        padding-top: 30px;
+    }
+
+    .firstSection h3 {
+        color: #4eb1aa;
+        font-weight: bold;
+    }
+
+    .firstSection h4 {
+        color: #d1dc97;
+        font-weight: bold;
+    }
+
+    .firstSection p {
+        color: #cbccd0;
+        margin-bottom: 0;
+        padding-bottom: 30px;
+    }
+
+    .secondSection {
+        background-color: #2bb4b1;
+        padding: 40px 40px 30px;
+        color: white;
+        height: 250px;
+    }
+
+    .secondSection h5 {
+        margin-top: 0;
+        font-size: 0.6cm;
+        margin-bottom: 25px;
+    }
+
+    .secondSection h2 {
+        font-size: 1cm;
+        display: inline;
+        padding-right: 10px;
+        margin-top: 25px;
+    }
+
+    .secondSection p {
+        margin-bottom: 50px;
+        font-weight: 50;
+    }
+
+    .secondSection span {
+        font-weight: 10;
+    }
+
+    .secondSection button {
+        margin-bottom: 0;
+        width: 75%;
+        background-color: #bfe031;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        font-size: 16px;
+        font-weight: 300;
+        cursor: pointer;
+        border-radius: 5px;
+        border: none;
+        box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    .thirdSection {
+        background-color: #49bebd;
+        padding: 30px 40px 30px;
+        color: white;
+        height: 250px;
+    }
+
+    .thirdSection h5 {
+        margin-top: 0;
+        padding-bottom: 0;
+        font-size: 25px;
+    }
+
+    .thirdSection p {
+        font-size: 20px;
+        font-weight: 10;
+        word-spacing: 5px;
+    }
